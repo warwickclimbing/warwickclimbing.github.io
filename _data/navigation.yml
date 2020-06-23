@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Welcome"
+    url: /welcome/
+  - title: "Categories"
+    url: /category-archive/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact

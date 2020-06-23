@@ -7,11 +7,11 @@ toc: false
 ---
 
 ## Membership
-(email here)
+[email](mailto:committee@warwickclimbingclub.co.uk)
 
 
 ## Committee
-(email here)
+[email](mailto:committee@warwickclimbingclub.co.uk)
 
 ---
 

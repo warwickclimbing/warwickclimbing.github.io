@@ -14,7 +14,7 @@ feature_row:
   - image_path: /assets/images/Homepage/calendar.png
     title: "Trips and Socials"
     excerpt: "We run a variety of trips and socials throughout the year."
-    url: "/404/"
+    url: "/calendar/"
     btn_class: "btn--primary"
     btn_label: "View calendar"
 

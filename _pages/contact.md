@@ -7,6 +7,7 @@ toc: false
 ---
 
 ## Membership
+The membership annual subscription is currently set to £20.00. For that club members get discounted entry to the climbing wall at St Nicholas Park (Warwick), discounts at local outdoor shops and club affiliated membership of the BMC... as well as organised climbing trips throughout the year and the benefit of our combined wisdom! Application forms are available from the Membership Secretary or from any Club Official at the wall.
 [email](mailto:committee@warwickclimbingclub.co.uk)
 
 

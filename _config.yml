@@ -279,6 +279,8 @@ defaults:
       comments: true
       share: true
       related: true
+      header:
+        overlay_color: "#99CCC"
   # _pages
   - scope:
       path: ""
@@ -287,3 +289,5 @@ defaults:
       layout: single
       author_profile: true
       toc_sticky: true
+      header:
+        overlay_color: "#FF9933"

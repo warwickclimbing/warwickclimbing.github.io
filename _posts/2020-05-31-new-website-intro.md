@@ -1,8 +1,6 @@
 ---
 title:  "New WCC website for 2020!"
-excerpt: "The 2020 committee decided to investigate improving the current website."
-header:
-  caption: "New club website"
+excerpt: "The committee decided to investigate improving the club website."
 categories:
   - news
 ---

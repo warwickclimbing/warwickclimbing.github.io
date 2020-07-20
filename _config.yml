@@ -274,6 +274,8 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
+      toc: false
       author_profile: false
       read_time: false
       comments: true

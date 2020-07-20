@@ -1,6 +1,8 @@
 ---
 title:  "New WCC website for 2020!"
 excerpt: "The committee decided to investigate improving the club website."
+categories:
+  - Post
 tags:
   - news
 ---

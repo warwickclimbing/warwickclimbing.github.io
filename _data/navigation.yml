@@ -3,7 +3,7 @@ main:
   - title: "Welcome"
     url: /welcome/
   - title: "Categories"
-    url: /category-archive/
+    url: /tag-archive/
   - title: "About"
     url: /about/
   - title: "Contact"

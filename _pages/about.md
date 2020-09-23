@@ -13,10 +13,6 @@ In the mid 1980's Leamington Mountaineering Club gained an offshoot ,the Newbold
 
 Warwick Climbing Club was formed in 1992/3 from the bones of Leamington Mountaineering Club by Alan Jeffs and Barry Woodbridge. Barry and Pauline Woodbridge served as secretary and treasurer respectively, until 2000. It was during this period that the wall at St Nicholas Park was built, funded by the club, Warwick's Henry VIII Charity and Warwick District Council.
 
-
-## Membership
-The membership annual subscription is currently set to £20.00, for that, Members get discounted entry to the climbing wall at St Nicholas Park, discounts at local outdoor shops, club membership of the BMC, organised climbing trips throughout the year and the benefit of our combined wisdom! Application forms are available from the Membership Secretary or from a Club Official at the wall
-
 ---
 
 Warwick Climbing Club is a BMC affiliated club run by and for it's members.

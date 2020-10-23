@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Contact WCC"
 excerpt: "Contact Warwick Climbing Club"
-last_modified_at: 2020-05-09
+last_modified_at: 2020-10-20
 toc: false
 ---
 

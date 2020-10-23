@@ -24,4 +24,12 @@ For further information regarding the BMC advice [click here](https://www.thebmc
 
 ## Trips and Socials for 2020
 
+| Dates           | Location       |
+|-----------------|----------------|
+| March 14-15     | Wye Valley     |
+| August 29-31    | Pembroke South |
+| November 7-8    | Portland       |
+
 ---
+
+Warwick Climbing Club is a BMC affiliated club run by and for it's members.

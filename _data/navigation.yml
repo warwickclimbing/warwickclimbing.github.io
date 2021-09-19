@@ -2,6 +2,8 @@
 main:
   - title: "Welcome"
     url: /welcome/
+  - title: "Events"
+    url: /calendar/
   - title: "Categories"
     url: /tag-archive/
   - title: "About"

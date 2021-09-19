@@ -10,8 +10,9 @@ toc: false
 Warwick Climbing Club welcomes climbers and mountaineers from Warwick, Leamington Spa, Stratford-upon-Avon, Coventry and the surrounding areas.The club meets twice a week.
 
 We climb indoors every Wednesday and Thursday:
-- Wednesdays at **St Nicholas Park Leisure Centre** in Warwick, between 7pm and 9.30pm and then afterwards at the New Bowling Green pub, St Nicholas Church Street, Warwick.
-- Thursdays at **Bear Rock at the University of Warwick**, between 7pm and 9.30pm and then afterwards at the Varsity pub, Gibbett Hill Road, Coventry.
+- Wednesdays at **St Nicholas Park Leisure Centre** in Warwick, between 7pm and 9:30pm and then afterwards at the New Bowling Green pub, St Nicholas Church Street, Warwick.
+- Thursdays at **Bear Rock at the University of Warwick**, between 7pm and 9:30pm and then afterwards at the Varsity pub, Gibbett Hill Road, Coventry.
+
 We run outdoor climbing trips to all parts of the UK, and sometimes Europe, throughout the year.
 
 If you want to come and climb with us, please either get in touch via the [website](/contact/) or come along to either of the climbing evenings.

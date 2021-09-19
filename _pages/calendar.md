@@ -6,29 +6,45 @@ last_modified_at: 2020-10-20
 toc: false
 ---
 
+## Trips and Socials for 2021
+
+Details about specific events will be distributed on the club mailing list close to each event. Keep an eye out!
+
+| Dates           | Location                              |
+|-----------------|---------------------------------------|
+| April 10        | Warwickshire - Corley Rocks           |
+| April 24        | Peak District - Harborough Rocks      |
+| May 22-23       | Peak District - Western Grid          |
+| June 19         | West Country - Avon Gorge             |
+| July 3-4        | Wye Valley - TBD                      |
+| July 11         | Peak District - Stanage               |
+| July 17-18      | Yorkshire - Brimham Rocks             |
+| July 31-1       | Lake District - Langdale              |
+| August 14-15    | Portland - TBD                        |
+| August 28-30    | Pembroke - St Davids Head             |
+| September 18    | Pre-social indoor climb - Warwick Uni |
+| September 18    | Summer social - Leamington area       |
+| September 25    | Peaks District - Roaches              |
+| October 9–10    | North Wales - Tremadog                |
+| October 23–24   | Wye Valley - TBD                      |
+| November 6–7    | Lakes Trip - Langdale                 |
+| November 20-21  | North Wales - Clwyd limestone         |
+| December 4-5    | North Wales - Llanberis               |
+
 ## COVID-19 STATEMENT
 
-Update: Following a meeting of the Warwick Climbing Club committee, it was decided to suspend all Socials indefinitely and attempt to run intermittent Trips only where possible and where both national and local rules allow. This policy will be reviwed every month until the health crisis has subsided.
+The Warwick Climbing Club committee has decided to resume organising Trips and some Socials for 2021 where possible and where both national and local rules allow. This policy will be reviwed every few months.
 
-- Most indoor climbing and bouldering walls are open in a limited capacity. However the St Nick’s wall remains closed while the leasure centre undergoes repairs.
+- Most indoor climbing walls are open in some capacity, please check individual centre rules.
 - You should try not to share a vehicle with those outside your household or support bubble.
 
 The BMC published their advice (see below) the main points of which being:
-- Maintain 2 metre social distancing to your climbing partner and avoid contact with anyone else.
-- Groups of 6 can meet outside but ideally just climb and socialise with your climbing partner, while maintaining social distancing.
+- Maintain social distancing with your climbing partner and group.
 - Sanitise your hands regularly.
 - Where possible use your own kit, climbing equipment and consumables (maps, guidebooks, lunch, drinks etc)
 - Avoid touching gates and path furniture where possible. Be considerate on paths and trails to maintain social distancing.
 
-For further information regarding the BMC advice [click here](https://www.thebmc.co.uk/covid19-restarting-club-meets).
-
-## Trips and Socials for 2020
-
-| Dates           | Location       |
-|-----------------|----------------|
-| March 14-15     | Wye Valley     |
-| August 29-31    | Pembroke South |
-| November 7-8    | Portland       |
+For information regarding BMC advice [click here](https://www.thebmc.co.uk/covid19-restarting-club-meets).
 
 ---
 

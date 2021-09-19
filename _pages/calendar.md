@@ -2,7 +2,7 @@
 permalink: /calendar/
 title: "Calendar"
 excerpt: "Trips and Socials Calendar"
-last_modified_at: 2020-10-20
+last_modified_at: 2021-09-14
 toc: false
 ---
 

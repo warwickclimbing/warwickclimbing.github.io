@@ -10,6 +10,8 @@ toc: false
 
 Details about specific events will be distributed on the club mailing list close to each event. Please keep an eye out!
 
+Click to add the [Club Trips Calendar](https://user.fm/calendar/v1-97ffe7f2dae5bc7a1e40633edbb11cee/Calendar.ics).
+
 | Dates           | Location                                        |
 |-----------------|-------------------------------------------------|
 | February 25–27  | Peaks East - Stanage                            |

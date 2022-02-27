@@ -2,12 +2,12 @@
 permalink: /contact/
 title: "Contact WCC"
 excerpt: "Contact Warwick Climbing Club"
-last_modified_at: 2020-10-20
+last_modified_at: 2022-02-27
 toc: false
 ---
 
 ## COVID-19 STATEMENT
-The club is currently only organising limited socials with some regular trips due to the precautions in place. However, the club is again able to climb at St. Nicolas park leisure centre from 20th May. The club is still open to new members and more information as to club activities will be provided via the club email list.
+The club is currently only organising limited socials due to the precautions in place but trips are running regularly. The club is also still able to climb at St. Nicolas park leisure centre and is open to new members. More information as to club activities will be provided via the club email list.
 
 ## Membership
 The annual membership subscription is set to £25.00 for 2022. For that club members get discounted entry to the climbing wall at St Nicholas Park (in Warwick), discounts at local outdoor shops and club affiliated membership of the BMC ... as well as organised climbing trips throughout the year and the benefit of our combined wisdom!

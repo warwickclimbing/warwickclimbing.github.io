@@ -7,7 +7,7 @@ toc: false
 ---
 
 ## Membership
-For 2023 the annual membership subscription is set at £26.25 for Adults and £16.45 for Juniors. For that club members get discounted entry to the climbing wall at St Nicholas Park (in Warwick), discounts at local outdoor shops and club affiliated membership of the BMC ... as well as organised climbing trips throughout the year and the benefit of our combined wisdom!
+For 2023 the annual membership subscription is set at £26.25 for Adults (18+) and £16.45 for Juniors (8-17). For that club members get discounted entry to the climbing wall at St Nicholas Park (in Warwick), discounts at local outdoor shops and club affiliated membership of the BMC ... as well as organised climbing trips throughout the year and the benefit of our combined wisdom!
 
 Links to the online application form are made available by the Membership Secretary or from any Club Official at the wall. Please contact us via [email](mailto:membership@warwickclimbingclub.co.uk).
 

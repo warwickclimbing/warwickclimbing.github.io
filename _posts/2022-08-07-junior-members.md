@@ -1,6 +1,6 @@
 ---
 title:  "Junior Memberships Open"
-excerpt: "The club will accept junior members from Auguest 1st."
+excerpt: "The club will accept junior members from August 1st."
 categories:
   - Post
 tags:

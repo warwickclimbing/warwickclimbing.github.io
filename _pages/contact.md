@@ -7,7 +7,7 @@ toc: false
 ---
 
 ## Membership
-For 2023 the annual membership subscription is set at
+For 2023 the annual membership subscription is set at:
 - £26.25 for Adults (18+)
 - £16.45 for Juniors (8-17).
 

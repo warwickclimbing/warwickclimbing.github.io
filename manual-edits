@@ -3,3 +3,8 @@ Manual edits following upload to overide Mobirise Publish...
 
 <!--<link rel="shortcut icon" href="assets/images/wcc-logo-96x53.png" type="image/x-icon">-->
 <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+
+https://warwickclimbingclub.co.uk/assets/mobirise/css/mbr-additional.css - 787
+.cid-tyeGNUeHuj .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
